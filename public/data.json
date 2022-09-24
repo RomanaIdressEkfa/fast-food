@@ -1,0 +1,27 @@
+[
+    {
+        "img":"https://i.ibb.co/8NHNKPd/specials-4.png",
+        "name":"Pizza",
+        "des":"Pizza is full of umami, which means “delicious” in Japanese. Just like the other types of taste",
+        "id":1
+    },
+    {
+        "img":"https://i.ibb.co/k2wJ3f6/specials-1.png",
+        "name":"Pizza2",
+        "des":"Pizza is full of umami, which means “delicious” in Japanese. Just like the other types of taste",
+        "id":2
+    },
+    {
+        "img":"https://i.ibb.co/yqG8jLd/specials-2.png",
+        "name":"Pizza3",
+        "des":"Pizza is full of umami, which means “delicious” in Japanese. Just like the other types of taste",
+        "id":3
+    },
+    {
+        "img":"https://i.ibb.co/x3h2LFF/specials-5.png",
+        "name":"Pizza3",
+        "des":"Pizza is full of umami, which means “delicious” in Japanese. Just like the other types of taste",
+        "id":4
+    }
+
+]
