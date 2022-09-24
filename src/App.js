@@ -1,5 +1,6 @@
 import './App.css';
 import Cards from './Pages/Cards';
+import Carousel from './Pages/Carousel';
 import Hero from './Pages/Hero';
 import Home from './Pages/Home';
 import Footer from './Pages/Shares/Footer';
@@ -12,6 +13,7 @@ function App() {
       <Home></Home>
       <Cards></Cards>
       <Hero></Hero>
+      <Carousel></Carousel>
       <Footer></Footer>
     </div>
   );
