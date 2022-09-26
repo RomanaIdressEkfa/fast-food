@@ -9,16 +9,16 @@ const Carousel = () => {
         <div>
             <div class="carousel w-full">
                 <div id="item1" class="carousel-item w-full">
-                    <img src={pic4} class="w-full" />
+                    <img src={pic4} class="w-fluid" />
                 </div>
                 <div id="item2" class="carousel-item w-full">
-                    <img src={pic2} class="w-full" />
+                    <img src={pic2} class="w-fluid" />
                 </div>
                 <div id="item3" class="carousel-item w-full">
-                    <img src={pic3} class="w-full" />
+                    <img src={pic3} class="w-fluid" />
                 </div>
                 <div id="item4" class="carousel-item w-full">
-                    <img src={pic1} class="w-full" />
+                    <img src={pic1} class="w-fluid" />
                 </div>
             </div>
             <div class="flex justify-center w-full py-2 gap-2">

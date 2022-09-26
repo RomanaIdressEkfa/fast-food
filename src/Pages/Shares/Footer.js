@@ -66,7 +66,7 @@ const Footer = () => {
                     <a class="link link-hover">Cookie policy</a>
                 </div>
             </footer>
-            <div className=' p-2 text-center '>
+            <div className=' p-2 text-center text-base-content '>
                 Copyright {date}. All Rights Reserved
                 <div>
                     Designed by <b className='text'> Romana Idress Ekfa.</b>

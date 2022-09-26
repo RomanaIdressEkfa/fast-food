@@ -20,7 +20,7 @@ module.exports = {
       {
         dark: {
 
-          "primary": "#2BD4BD",
+          "primary": "#570DF8",
 
           "secondary": "#c92a2a",
 
