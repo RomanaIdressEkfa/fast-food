@@ -32,7 +32,7 @@ const CountDown = () => {
     }
     return (
         <div className='w-11/12 h-72 mx-auto my-20 bg-slate-300 py-3 rounded-br-3xl rounded-tl-3xl -mt-32 relative  ' >
-            <h1 className='text-center my-5 text-4xl font-bold uppercase'>Our new Foods<span className='text-error'> coming soon</span></h1>
+            <h1 className='text-center my-5 text-4xl font-bold uppercase'>Our new Foods<span className='text-red-500'> coming soon</span></h1>
             <div className="grid grid-flow-col gap-5 text-center auto-cols-max mx-auto justify-center  p-9 m-8">
                 <div className="flex flex-col p-4 bg-neutral rounded-box text-neutral-content">
                     <Countdown className="font-mono text-5xl" value={day} />

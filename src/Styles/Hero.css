@@ -14,3 +14,7 @@ max-width: 500px;
     gap: 1rem;
     padding: 2rem;
 }
+.w-7\/12 {
+    max-width: 84.333333% !important;
+  }
+  
