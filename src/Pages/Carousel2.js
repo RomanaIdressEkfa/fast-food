@@ -73,7 +73,7 @@ import pic9 from './../assets/Images/mixed-pizza-with-various-ingridients_140725
 import pic10 from './../assets/Images/meet.jpg'
 const Carousel2 = () => {
     return (
-        <div className='m-5 border-x-8 p-6 border-red-500'>
+        <div className='m-5 border-x-8 p-6 border-red-500' id='list'>
 
             <Swiper
                 slidesPerView={1}

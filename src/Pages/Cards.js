@@ -12,7 +12,7 @@ const Cards = () => {
     }, [cards]);
     return (
         <div>
-            <div className='grid grid-cols-1 md:grid-cols-4 gap-2'>
+            <div className='grid grid-cols-1 md:grid-cols-4 gap-2 -mt-12 relative'>
                 {
                     cards.map(card => <Card key={card.id} card={card}></Card>)
                 }

@@ -8,6 +8,8 @@ import Map from './Pages/Map';
 import Footer from './Pages/Shares/Footer';
 import Login from './Pages/Login';
 import Navbar from './Pages/Shares/Navbar';
+import CountDown from './Pages/Countdown';
+import Items from './Pages/Items';
 
 function App() {
   return (
@@ -18,10 +20,14 @@ function App() {
       <Hero></Hero>
       {/* <Carousel></Carousel> */}
       <Carousel2></Carousel2>
+      <Carousel></Carousel>
 
       {/* <Login></Login> */}
       {/* <Login></Login> */}
-      <Map></Map>
+      {/* <Map></Map> */}
+      <CountDown></CountDown>
+      <Items></Items>
+      <br />
       <Footer></Footer>
     </div>
   );
