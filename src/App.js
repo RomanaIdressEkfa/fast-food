@@ -13,7 +13,7 @@ import Items from './Pages/Items';
 
 function App() {
   return (
-    <div >
+    <div className='bg-neutral' >
       <Navbar></Navbar>
       <Home></Home>
       <Cards></Cards>

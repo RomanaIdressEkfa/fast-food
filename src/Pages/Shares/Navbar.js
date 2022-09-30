@@ -4,7 +4,7 @@ import eshu from './../../assets/Images/20200920_225031.jpg';
 const Navbar = () => {
     return (
         <div>
-            <div class="navbar bg-base-100 absolute">
+            <div class="navbar bg-neutral absolute">
                 <div class="navbar-start">
                     <div class="dropdown">
                         <label tabindex="0" class="btn btn-ghost btn-circle bg-neutral-content">

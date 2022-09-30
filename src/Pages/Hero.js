@@ -5,7 +5,7 @@ import './../Styles/Hero.css'
 const Hero = () => {
     return (
         <div id='about'>
-            <div class="bg-base-200">
+            <div class="bg-neutral">
                 <div class="hero-content flex-col lg:flex-row">
                     <img className='w-7/12 h-full' src={img} />
 
